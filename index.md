@@ -48,7 +48,7 @@ _Translating "dump" or "useless outfit" into German yields "Saftladen"
 which can be reverse-translated word by word into "juice shop". Hence
 the project name. That the initials "JS" match with those of
 "JavaScript" was purely coincidental!_
-let us try again for GitHub logs
+let us try again for GitHub logs pulled to wazuh
 
 ## Testimonials
 
